@@ -3,7 +3,7 @@
 If you have a hyperspectral image of seeds and need to classify them based on size, using this tool would be helpful.
 
 
-![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/73aab4f5-ed64-4e71-bc82-d75b0330bf81)
+![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/a7407872-270c-4e34-a0e0-0db2bbeec593)
 
 
 Using this tool is very straightforward. Simply follow these steps:
@@ -18,7 +18,6 @@ Open the results layer in ArcMap.
 Apply symbology based on the area to classify the seeds by size.
 These steps will help you easily classify seeds based on their size using the tool.
 
-![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/2907813b-164d-40cb-966b-81a6cc05ff5c)
 
 
 Developed by Aliasghar Bazrafkan
