@@ -27,8 +27,8 @@ Input directory
 Tool
 
 ![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/46886b5b-6b70-447d-8461-3915638c734e)
-
 The results for all layers
+
 
 
 Developed by Aliasghar Bazrafkan
