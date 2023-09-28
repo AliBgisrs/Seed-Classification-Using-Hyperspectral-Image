@@ -3,7 +3,7 @@
 If you have a hyperspectral image of seeds and need to classify them based on size, using this tool would be helpful.
 
 
-![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/b2928eeb-a022-44ef-b09c-0370515b4014)
+![image](https://github.com/AliBgisrs/Seed-Classification-Using-Hyperspectral-Image/assets/109620013/128ec91f-3b26-4e80-b869-f115804f5e22)
 
 
 Using this tool is very straightforward. Simply follow these steps:
